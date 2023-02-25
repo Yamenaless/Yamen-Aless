@@ -1,4 +1,4 @@
-# Hi there I'm User! 👋🏻
+# Hi there I'm User! 👨‍💻
 ### 🚦 Stats
 
 <a href="https://github.com/AmmarAlkhooly98/website">
