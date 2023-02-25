@@ -1,5 +1,5 @@
 # Hi there I'm User! 👨‍💻
-### 🚦 Stats
+###  Stats
 
 <a href="https://github.com/user-404u">
   <img src="https://github-readme-stats.vercel.app/api?username=user-404u&show_icons=true&hide=contribs&count_private=true&theme=algolia" />
